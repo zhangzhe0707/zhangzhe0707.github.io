@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://zhangzhe0707.github.io
+title: zhangzhe
+tagline: A log of everyday life
+description: My awesome new site
+paginate: 5
